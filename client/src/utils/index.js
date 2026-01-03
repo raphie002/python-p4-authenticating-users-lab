@@ -1,3 +1,4 @@
+// client/src/utils/index.js
 export function makeEmojiList(minutes) {
   const interval = minutes < 30 ? 5 : 10;
   const emoji = minutes < 30 ? "☕️" : "🍱";

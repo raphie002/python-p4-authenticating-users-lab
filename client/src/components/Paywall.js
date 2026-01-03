@@ -1,3 +1,4 @@
+// client/src/components/Paywall.js
 function Paywall() {
   return (
     <article>

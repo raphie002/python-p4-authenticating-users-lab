@@ -1,3 +1,4 @@
+# server/migrations/versions/f94967fddc40_create_tables.py
 """create tables
 
 Revision ID: f94967fddc40

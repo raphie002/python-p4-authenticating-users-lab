@@ -1,3 +1,4 @@
+// client/src/components/App.js
 import { useState, useEffect } from "react";
 import { Switch, Route } from "react-router-dom";
 import Article from "./Article";
